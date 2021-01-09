@@ -1,2 +1,2 @@
-# l10n_ng
-Nigeria Localization
+# Collection of Odoo localization for Nigeria 
+[x] l1on_state
