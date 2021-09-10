@@ -1,3 +1,3 @@
-# Nigeria localization 
+# Nigeria Localization 
 
 * l1on_nigeria_state
