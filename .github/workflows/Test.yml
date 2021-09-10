@@ -1,4 +1,4 @@
-name: Converted Workflow
+name: Odoo Test
 'on':
   push:
     branches:
