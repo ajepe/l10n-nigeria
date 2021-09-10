@@ -1,3 +1,3 @@
-# Collection of Odoo localization for Nigeria 
+# Nigeria localization 
 
-* l1on_state
+* l1on_nigeria_state
